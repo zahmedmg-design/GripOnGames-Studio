@@ -1,17 +1,16 @@
 {
-  "obs": {
-    "host": "localhost",
-    "port": 4455,
-    "password": "CHANGE_ME"
-  },
-  "fm25": {
-    "exe_path": "C:/Program Files (x86)/Steam/steamapps/common/Football Manager 2025/fm.exe"
-  },
-  "broadcast": {
-    "home_team": "HOME",
-    "away_team": "AWAY",
-    "home_score": 0,
-    "away_score": 0,
-    "clock": "00:00"
-  }
+    "application": {
+        "name": "GripOnGames Studio",
+        "version": "0.4"
+    },
+
+    "obs": {
+        "host": "localhost",
+        "port": 4455,
+        "password": ""
+    },
+
+    "game": {
+        "selected": "Football Manager 2025"
+    }
 }
